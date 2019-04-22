@@ -41,8 +41,8 @@ List of 300 VueJS Interview Questions
 |22 | [시스템 수식어 키(System modifier key)란](#시스템-수식어-키System-modifier-key란)|
 |23 | [마우스 버튼 수식어(Mouse button modifier)란?](#마우스-버튼-수식어Mouse-button-modifier란)|
 |24 | [v-model의 역할은](#v-model의-역할은)|
-|25 | [v-model에서 지원되는 수식어는?](#v-model에서-지원되는-수식어는?)|
-|26 | [컴포넌트(Component)란](#컴포넌트(Component)란)|
+|25 | [v-model에서 지원되는 수식어는?](#v-model에서-지원되는-수식어는)|
+|26 | [컴포넌트(Component)란](#컴포넌트Component란)|
 |27 | [props란?](#props란)|
 |28 | [컴포넌트에서 여러 엘리먼트를 쓰려면?](#컴포넌트에서-여러-엘리먼트를-쓰려면?)|
 |29 | [하위 컴포넌트에서 상위 컴포넌트로 이벤트를 전달하는 방법은?](#하위-컴포넌트에서-상위-컴포넌트로-이벤트를-전달하는-방법은?)|
