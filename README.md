@@ -28,8 +28,8 @@ List of 300 VueJS Interview Questions
 |9  | [key 속성을 이용해 엘리먼트를 재사용하는 방법은](#key-속성을-이용해-엘리먼트를-재사용하는-방법은)|
 |10 | [같은 엘리먼트에서 v-for와 v-if를 함께 쓰면 안 되는 이유는](#같은-엘리먼트에서-v-for와-v-if를-함께-쓰면-안-되는-이유는)|
 |11 | [v-for에서 key 속성이 필요한 이유](#v-for에서-key-속성이-필요한-이유)|
-|12 | [배열을 변화시키는 함수(Mutation method)란](#배열을-변화시키는-함수(Mutation-method)란)|
-|13 | [배열을 대체하는 함수(Non-mutation method)란](#배열을-대체하는-함수(Non-mutation-method)란)|
+|12 | [배열을 변화시키는 함수(Mutation method)란](#배열을-변화시키는-함수Mutation-method란)|
+|13 | [배열을 대체하는 함수(Non-mutation method)란](#배열을-대체하는-함수Non-mutation-method란)|
 |14 | [배열 변경을 탐지할 때 주의할 점](#배열-변경을-탐지할-때-주의할-점)|
 |15 | [객체 변경을 탐지할 때 주의할 점](#객체-변경을-탐지할-때-주의할-점)|
 |16 | [v-for를 특정 횟수만큼 반복하는 방법은](#v-for를-특정-횟수만큼-반복하는-방법은)|
@@ -579,7 +579,7 @@ List of 300 VueJS Interview Questions
      반복되는 DOM 내용이 단순한 경우나 의도적인 성능 향상을 위해 기본 동작에 의존하지 않는 경우를 제외하면, 가능하면 언제나 v-for에 key를 추가하는 것이 좋습니다.
      **Note:** 객체나 배열처럼, 기본 타입(Primitive value)이 아닌 값을 키로 사용해서는 안됩니다. 문자열이나 숫자를 사용하세요.
 
-12.  ### 배열을 변화시키는 함수(Mutation method)란
+12.  ### 배열을 변화시키는 함수Mutation method란
      이름에서 볼 수 있듯, 배열을 변화시키는 함수(mutation methods)는 원본 배열을 변경시킵니다. 아래의 함수는 뷰(view) 업데이트를 일으킵니다.
      1. push()
      2. pop()
@@ -595,7 +595,7 @@ List of 300 VueJS Interview Questions
      vm.todos.push({ message: 'Baz' })
      ```
 
-13.  ### 배열을 대체하는 함수(Non-mutation method)란
+13.  ### 배열을 대체하는 함수Non-mutation method란
      배열을 대체하는 함수는 원본 배열을 수정하지 않고, 항상 새로운 배열을 반환합니다. 아래의 함수는 배열을 대체하는 함수입니다.
      1. filter()
      2. concat()
