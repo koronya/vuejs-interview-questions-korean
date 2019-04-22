@@ -19,8 +19,8 @@ List of 300 VueJS Interview Questions
 |---- | ---------
 |1  | [VueJS란 무엇인가](#VueJS란-무엇인가) |
 |2  | [VueJS의 주요 특징은](#VueJS의-주요-특징은) |
-|3  | [VueJS의 라이프사이클(lifecycle) 함수는](#VueJS의-라이프사이클(lifecycle)-함수는)|
-|4  | [조건부 지시자(conditional directives)란](#조건부-지시자(conditional-directives)란)|
+|3  | [VueJS의 라이프사이클(lifecycle) 함수는](#VueJS의-라이프사이클lifecycle-함수는)|
+|4  | [조건부 지시자(conditional directives)란](#조건부-지시자conditional-directives란)|
 |5  | [v-show와 v-if의 차이점은](#v-show와-v-if의-차이점은)|
 |6  | [v-for를 쓰는 목적은](#v-for를-쓰는-목적은)|
 |7  | [Vue 인스턴스란](#Vue-인스턴스란)|
@@ -33,10 +33,10 @@ List of 300 VueJS Interview Questions
 |14 | [배열 변경을 탐지할 때 주의할 점](#배열-변경을-탐지할-때-주의할-점)|
 |15 | [객체 변경을 탐지할 때 주의할 점](#객체-변경을-탐지할-때-주의할-점)|
 |16 | [v-for를 특정 횟수만큼 반복하는 방법은](#v-for를-특정-횟수만큼-반복하는-방법은)|
-|17 | [v-for로 템플릿을 반복하는 방법은](#[v-for로-템플릿을-반복하는-방법은)|
+|17 | [v-for로 템플릿을 반복하는 방법은](#v-for로-템플릿을-반복하는-방법은)|
 |18 | [이벤트 핸들러를 사용하는 방법은](#이벤트-핸들러를-사용하는-방법은)|
-|19 | [Vue에서 이벤트 수식어(Event modifier)란](#Vue에서-이벤트-수식어(Event-modifier)란)|
-|20 | [키 수식어(Key modifiers)란](#키-수식어(Key-modifiers)란)|
+|19 | [Vue에서 이벤트 수식어(Event modifier)란](#Vue에서-이벤트-수식어Event-modifier란)|
+|20 | [키 수식어(Key modifiers)란](#키-수식어Key-modifiers란)|
 |21 | [키 수식어를 커스터마이징하는 방법은](#키-수식어를-커스터마이징하는-방법은)|
 |22 | [시스템 수식어 키(System modifier key)란](#시스템-수식어-키System-modifier-key란)|
 |23 | [마우스 버튼 수식어(Mouse button modifier)란?](#마우스-버튼-수식어Mouse-button-modifier란)|
