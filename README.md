@@ -579,7 +579,7 @@ List of 300 VueJS Interview Questions
      반복되는 DOM 내용이 단순한 경우나 의도적인 성능 향상을 위해 기본 동작에 의존하지 않는 경우를 제외하면, 가능하면 언제나 v-for에 key를 추가하는 것이 좋습니다.
      **Note:** 객체나 배열처럼, 기본 타입(Primitive value)이 아닌 값을 키로 사용해서는 안됩니다. 문자열이나 숫자를 사용하세요.
 
-12.  ### 배열을 변화시키는 함수Mutation method란
+12.  ### 배열을 변화시키는 함수(Mutation method)란
      이름에서 볼 수 있듯, 배열을 변화시키는 함수(mutation methods)는 원본 배열을 변경시킵니다. 아래의 함수는 뷰(view) 업데이트를 일으킵니다.
      1. push()
      2. pop()
@@ -595,7 +595,7 @@ List of 300 VueJS Interview Questions
      vm.todos.push({ message: 'Baz' })
      ```
 
-13.  ### 배열을 대체하는 함수Non-mutation method란
+13.  ### 배열을 대체하는 함수(Non-mutation method)란
      배열을 대체하는 함수는 원본 배열을 수정하지 않고, 항상 새로운 배열을 반환합니다. 아래의 함수는 배열을 대체하는 함수입니다.
      1. filter()
      2. concat()
@@ -779,7 +779,7 @@ List of 300 VueJS Interview Questions
      }
      ```
 
-22.  ### 시스템 수식어 키System modifier key란?
+22.  ### 시스템 수식어 키(System modifier key)란?
 
      Vue에서는 다음 수식어를 사용해 해당 수식어 키가 눌러진 경우에만 마우스 또는 키보드 이벤트를 발생시킬 수 있습니다.
      1. `.ctrl`
@@ -794,7 +794,7 @@ List of 300 VueJS Interview Questions
      <div @click.ctrl="doSomething">Do something</div>
      ```
 
-23.  ### 마우스 버튼 수식어Mouse button modifier란?
+23.  ### 마우스 버튼 수식어(Mouse button modifier)란?
 
      Vue는 특정한 마우스 버튼으로 발생한 이벤트를 제어할 수 있습니다.
      1. `.left`
