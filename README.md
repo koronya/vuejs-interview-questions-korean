@@ -38,8 +38,8 @@ List of 300 VueJS Interview Questions
 |19 | [Vue에서 이벤트 수식어(Event modifier)란](#Vue에서-이벤트-수식어(Event-modifier)란)|
 |20 | [키 수식어(Key modifiers)란](#키-수식어(Key-modifiers)란)|
 |21 | [키 수식어를 커스터마이징하는 방법은](#키-수식어를-커스터마이징하는-방법은)|
-|22 | [시스템 수식어 키(System modifier key)란](#시스템-수식어-키(System-modifier-key)란)|
-|23 | [마우스 버튼 수식어(Mouse button modifier)란?](#마우스-버튼-수식어(Mouse-button-modifier)란)|
+|22 | [시스템 수식어 키(System modifier key)란](#시스템-수식어-키System-modifier-key란)|
+|23 | [마우스 버튼 수식어(Mouse button modifier)란?](#마우스-버튼-수식어Mouse-button-modifier란)|
 |24 | [v-model의 역할은](#v-model의-역할은)|
 |25 | [v-model에서 지원되는 수식어는?](#v-model에서-지원되는-수식어는?)|
 |26 | [컴포넌트(Component)란](#컴포넌트(Component)란)|
@@ -779,7 +779,7 @@ List of 300 VueJS Interview Questions
      }
      ```
 
-22.  ### 시스템 수식어 키(System modifier key)란?
+22.  ### 시스템 수식어 키System modifier key란?
 
      Vue에서는 다음 수식어를 사용해 해당 수식어 키가 눌러진 경우에만 마우스 또는 키보드 이벤트를 발생시킬 수 있습니다.
      1. `.ctrl`
@@ -794,7 +794,7 @@ List of 300 VueJS Interview Questions
      <div @click.ctrl="doSomething">Do something</div>
      ```
 
-23.  ### 마우스 버튼 수식어(Mouse button modifier)란?
+23.  ### 마우스 버튼 수식어Mouse button modifier란?
 
      Vue는 특정한 마우스 버튼으로 발생한 이벤트를 제어할 수 있습니다.
      1. `.left`
